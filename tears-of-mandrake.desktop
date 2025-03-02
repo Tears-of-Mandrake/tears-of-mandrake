@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Tears of Mandrake
+GenericName=System Management Tool
+Comment=Manage software, updates, and system settings
+Keywords=system;software;update;install;package;repository;codec;driver;
+Exec=tears-of-mandrake
+Icon=tears-of-mandrake
+Terminal=false
+Categories=Settings;System;
+StartupNotify=true
+StartupWMClass=tears-of-mandrake
